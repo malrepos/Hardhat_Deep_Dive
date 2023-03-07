@@ -1,4 +1,4 @@
-# Hardhat Deep Dive
+# Hardhat Deep Dive - Projects for Set Up, Deployment, Testing in Hardhat
 
 ![Hardhat Image](./src/images/hardhat-rectangle-1536x488.png)
 
@@ -10,6 +10,16 @@ This deep dive aims to get an intermediate developer comfortable with the syntax
 
 - [hardhat.org](https://hardhat.org/)
 - [node.js](https://nodejs.org/en/)
+- [Etherscan]()
+  - a block explorer for the Ethereum mainnet and testnets
+- [Goerli Testnet Faucet]()
+  - source for fake ether needed to deploy on the Goerli testnet
+- [ethers.js DOCS]()
+  - a library for interacting with the blockchain in JavaScript
+- [solidity-coverage]()
+  - a plugin for Hardhat used in the testing exercises
+- [coinmarketcap]()
+  - an API useful for gas reporting in the testing exercises
 
 # Table Of Contents
 
